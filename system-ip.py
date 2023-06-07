@@ -37,7 +37,7 @@ class ip:
 ______________________________________________
 ''')
 
-        print(ran,"\n\n","---"*3," [+] Follow me on github @SivaPothuluru-Sajja ","---"*3,"\n\n")
+        print(ran,"\n\n","---"*3," [+] Follow me on github @sivapothuluru ","---"*3,"\n\n")
         print(ran,"\n\n","---"*3," [+] V_1.0 ","---"*3,"\n\n")
 
     def public_ip(self):
